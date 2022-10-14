@@ -1,0 +1,189 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+  }
+  nav h2 {
+    font-size: 50px;
+    margin-left: 10px;
+    font-family: "Yellowtail", cursive;
+    color: #23211f;
+  }
+  
+  nav p {
+    margin-left: 10px;
+    color: #515a6b;
+    font-size: 11px;
+  }
+  
+  nav ul {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav ul li {
+    margin-left: 1px;
+    margin-top: 20px;
+  }
+  
+  .nav_li_img {
+    margin-left: 10px;
+  }
+  
+  .logo {
+    display: flex;
+  }
+  .logo img {
+    width: 55px;
+  }
+  
+  .hr_img {
+    background-image: url(/img/hr-img.png);
+    width: 100%;
+    height: 15px;
+    border: 0;
+  }
+  
+  .main_text p {
+    color: #515a6b;
+    font-size: medium;
+    margin-top: 10px;
+    font-family: "Oswald", cursive;
+  }
+  .main_text h2 {
+    font-size: 50px;
+    color: #23211f;
+    font-family: oswald, sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  .main_print {
+    color: #515a6b;
+    margin-top: 5%;
+  }
+  
+  .main_print button {
+    border: 0;
+    background-color: #fff;
+    color: #515a6b;
+  }
+  .main_hero_img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .main_section {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
+  .main_img_text img {
+    margin-bottom: 20px;
+    width: 100%;
+  }
+  
+  .main_img_text p {
+    margin-bottom: 20px;
+    color: #515a6b;
+  }
+  
+  .list {
+    background-image: url(../img/list-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    margin-top: 40px;
+    margin-bottom: 50px;
+    width: 100%;
+    color: #515a6b;
+  }
+  
+  .list_one {
+    height: 100%;
+    margin-top: 45px;
+    font-family: "Patrick Hand", cursive;
+    font-size: larger;
+  }
+  
+  .list_one input {
+    margin-top: 20px;
+    border-color: #93849a;
+  }
+  
+  .list_two {
+    margin-left: 100px;
+    margin-top: 45px;
+    font-family: "Patrick Hand", cursive;
+    font-size: larger;
+  }
+  
+  .list_two input {
+    margin-top: 20px;
+  }
+  
+  .main_footer {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
+  .main_footer p {
+    width: 600px;
+  }
+  
+  .about img {
+    float: left;
+    margin-right: 15px;
+  }
+  
+  .footer_display {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .footer_display hr {
+    width: 48%;
+    height: 0.1px;
+    margin-top: 1%;
+  }
+  .btn_share {
+    background-color: #bc7058;
+    color: #fff;
+    font-size: large;
+    height: 50px;
+    width: 190px;
+    border: 0;
+    cursor: pointer;
+    margin-right: 5vw;
+  }
+  
+  .footer_copyright {
+    text-align: center;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+  
+  .about h3 {
+    font-weight: bolder;
+    color: #23211f;
+    font-family: "Vidaloka", serif;
+  }
+  .about p {
+    color: #93849a;
+    padding: 10px;
+  }
+  
+  .about {
+    margin-left: 2vw;
+  }
+  footer p {
+    color: #93849a;
+  }
+  
